@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ag-theme-material{
+    --ag-header-height: 30px;
+    --ag-header-foreground-color: white;
+    --ag-header-background-color: black;
+}
